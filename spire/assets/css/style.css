@@ -1,0 +1,353 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.simplicity{
+    text-align: center;
+    padding: 60px 0;
+}
+.simplicity h2{
+    color:#D14F4F;
+    font-weight: bold;
+}
+.interior{
+    background-color:whitesmoke;
+    text-align: center;
+    padding: 60px 0;
+}
+.interior h2{
+    color:#D14F4F;
+    font-weight: bold;
+}
+.interior h6{
+    padding: 10px 0;
+    font-weight: bold;
+}
+.spire-interiors{
+    padding: 60px 0;
+    text-align: center;
+}
+.spire-interiors h2{
+    color:#D14F4F;
+    font-weight: bold;
+}
+.spire-interiors h1{
+    color: #D14F4F;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 40px;
+    font-weight: bold;
+}
+/* .spire-interiors p{
+    font-size: 18px;
+} */
+.home{
+    padding: 60px 0;
+    text-align: center;
+    background-color:whitesmoke;
+
+}
+.home h2{
+    color:#D14F4F;
+    font-weight: bold;
+}
+.home h6{
+    padding: 10px 0;
+    font-weight: bold;
+}
+.manufacturing{
+    padding: 60px 0;
+}
+.manufacturing h3{
+    padding:20px 0;
+    text-align: center;
+    font-weight: bold;
+    color:#D14F4F;
+}
+.manufacturing .accordion-header .accordion-button{
+    font-weight: bold;
+}
+.interior-design{
+    padding: 40px 0;
+    background-color: whitesmoke;
+}
+.interior-design h2{
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bold;
+    color:#D14F4F;
+}
+.interior-design h5{
+    padding: 10px 0;
+    font-weight: bold;
+    text-align: center;
+}
+.interior-design img{
+    padding-top: 20px;
+}
+.clients{
+    padding: 40px 0;
+}
+.clients h2{
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+    color:#D14F4F;
+}
+.clients p{
+    text-align: center;
+    /* padding-top: 20px; */
+}
+.clients h6{
+    text-align: center;
+}
+.clients img{
+    display: block;
+    margin: 0px auto;
+    padding: 20px 0; 
+    border-radius: 50%; 
+}
+.policy{
+    background-color: whitesmoke;
+    padding: 40px 0;
+}
+.policy h2{
+    font-weight: bold;
+    padding-top: 10px;
+}
+.policy p{
+    padding-top: 10px;
+}
+.policy h6{
+    color: #D14F4F; 
+}
+.frequently{
+    padding: 30px 0;
+}
+.frequently h3{
+    color: #D14F4F; 
+    padding: 10px 0;
+    font-weight: bold;
+}
+.frequently .accordion-header .accordion-button{
+    font-weight: bold;
+}
+.services {
+    padding: 40px 0;
+    background-color: whitesmoke;
+}
+.services h2{
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+}
+.services h6{
+    padding: 10px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.clients h6{
+    color: #D14F4F;
+}
+.navbar{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 6px;
+}
+.navbar .nav-item .nav-link{
+    color: black;
+}
+.navbar .btn a{
+    color: white;
+    text-decoration: none;
+    border: 2px solid #D14F4F;
+    background-color: #D14F4F;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 5px;
+}
+.heading-01 ul li{
+    padding: 10px 0;
+    font-size: 20px;
+    margin: 0 20px ;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.heading-02{
+    background-color: #D14F4F;
+    padding: 15px 0;
+}
+.heading-02 .mail a:hover{
+    color: white;
+}
+.heading-02 .number a:hover{
+    color: white;
+}
+.heading-02 .icons a:hover{
+    color: white;
+}
+.heading-02 a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+}
+.heading-02 .icons i{
+    margin: 5px ;
+    font-size: 18px;
+    margin-left: 30px;
+}
+.innovation{
+    background: url(../images/background02.avif) no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    padding: 200px 0px;
+    position: relative;
+    text-align: center;
+}
+.innovation .title{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.innovation h1{
+    color: white;
+    font-weight: bold;
+    /* padding-top: 380px; */
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.innovation a{
+    color: white;
+    text-decoration: none;
+    border: 2px solid #D14F4F;
+    background-color: #D14F4F;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    /* text-align: center; */
+}
+.trusted{
+    padding: 30px 0;
+}
+.trusted h2{
+    text-align: center;
+    font-weight: bold;
+    color:#D14F4F;
+}
+.simply {
+    padding: 60px 0;
+    background-color: whitesmoke;
+}
+.simply img{
+    border-radius: 20px;
+}
+.simply h3{
+    padding: 10px 0;
+    font-weight: bold;
+}
+.simply p{
+    font-size: 12px;
+}
+
+.dream{
+    padding: 60px 0;
+}
+.dream h3{
+    text-align: center;
+    font-weight: bold;
+}
+.dream p{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 30px;
+}
+.dream a{
+    color: white;
+    text-decoration: none;
+    border: 2px solid #D14F4F;
+    background-color: #D14F4F;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.dream a:hover{
+    color: #fff;
+}
+.details{
+    background-color: #D14F4F;
+    padding: 60px 70px;
+}
+.details h6{
+    padding: 10px;
+    color: white;
+}
+.details a{
+   color: white;
+   text-decoration: none;
+}
+.details a:hover{
+    color: white;
+}
+.details hr{
+    border: 1px solid white;
+}
+.last{
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+.contact-log-in .form-button{
+    background-color:#D14F4F;
+    color: white;
+    font-weight: bold;
+    padding: 10px 80px;
+   
+}
+.contact{
+    padding: 60px 0;
+}
+.contact h2{
+    text-align: center;
+    color:#D14F4F;
+}
+.contact p{
+    text-align: center;
+    padding: 20px 0;
+}
+.about{
+    padding: 60px 0;
+}
+.about .about-left h2{
+    text-align: center;
+    font-weight: bold;
+    color:#D14F4F;
+}
+.about .about-left p{
+    font-size: 18px;
+}
+.contact-log-in textarea{
+    width: 630px;
+}
+
+
+.sect{
+    background: url(../images/img03.jfif) no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
+.sect .breadcrumb-item a{
+    text-decoration: none !important;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
